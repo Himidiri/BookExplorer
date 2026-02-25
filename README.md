@@ -79,28 +79,4 @@ No API key required! 🎉
 ## Screenshots 📱
 
 <!-- Add screenshots here -->
-*Screenshots coming soon...*
 
-## Future Enhancements 🔮
-
-- [ ] Pagination support for loading more books
-- [ ] Favorites/bookmarks feature
-- [ ] Filter by author, subject, or language
-- [ ] Dark mode optimization
-- [ ] Book reading links
-- [ ] Share book information
-
-## Author 👤
-
-**Himidiri Himakanika**
-
-Created on November 20, 2025
-
-## License 📄
-
-This project is available for educational and personal use.
-
-## Acknowledgments 🙏
-
-- [Project Gutenberg](https://www.gutenberg.org/) for providing free ebooks
-- [Gutendex](https://gutendex.com/) for the excellent API
